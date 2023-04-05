@@ -1,0 +1,26 @@
+﻿Transaction_ID,Transaction_State,Transaction_Type,Client,File_Status,Closing_Date,Recording_Date
+9385,NY,Refinance,BETTER MTG,Ready to Record,3/4/23 15:30,NULL
+7773,FL,Purchase,OPENDOOR,Ready to Record,3/2/23 9:30,NULL
+6542,AZ,Purchase,OPENDOOR,Ready to Record,3/4/23 16:30,NULL
+9876,NY,Purchase,OPENDOOR,Ready to Record,3/3/23 11:45,NULL
+4567,CA,Purchase,OPENDOOR,Ready to Record,3/2/23 11:15,NULL
+1234,FL,Purchase,OPENDOOR,Ready to Record,3/2/23 16:15,NULL
+4567,FL,Refinance,BETTER MTG,Ready to Record,3/3/23 12:00,NULL
+6197,FL,Refinance,BETTER MTG,Ready to Record,3/3/23 14:45,NULL
+4109,FL,Refinance,BETTER MTG,Ready to Record,3/3/23 11:45,NULL
+6940,CA,Refinance,BETTER MTG,Ready to Record,3/2/23 16:00,NULL
+6453,TX,Purchase,OPENDOOR,Ready to Record,3/3/23 15:00,NULL
+7349,FL,Purchase,OPENDOOR,Ready to Record,3/3/23 14:00,NULL
+5237,IL,Purchase,OPENDOOR,Ready to Record,3/2/23 14:45,NULL
+6152,CA,Purchase,OPENDOOR,Ready to Record,3/2/23 15:30,NULL
+6740,TX,Purchase,OPENDOOR,Ready to Record,3/3/23 13:30,NULL
+1628,FL,Purchase,OPENDOOR,Ready to Record,3/2/23 11:00,NULL
+7821,CA,Purchase,OPENDOOR,Ready to Record,3/2/23 10:30,NULL
+4687,TX,Purchase,OPENDOOR,Ready to Record,3/3/23 11:30,NULL
+1846,IL,Refinance,BETTER MTG,Ready to Record,3/3/23 9:00,NULL
+5106,TX,Refinance,BETTER MTG,Ready to Record,3/3/23 14:30,NULL
+3385,NY,Refinance,BETTER MTG,Ready to Record,3/2/23 14:15,NULL
+5403,NY,Refinance,BETTER MTG,Ready to Record,3/2/23 16:45,NULL
+8754,IL,Purchase,ROOFSTOCK,Ready to Record,3/3/23 12:30,NULL
+1427,CA,Purchase,ROOFSTOCK,Ready to Record,3/2/23 17:15,NULL
+2345,CA,Purchase,ROOFSTOCK,Ready to Record,3/2/23 14:30,NULL

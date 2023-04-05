@@ -1,0 +1,23 @@
+﻿Transaction_ID,Transaction_State,Transaction_Type,Underwriter,Client,File_Status,Closing_Date
+7109,CA,Purchase,Fidelity,ROOFSTOCK,Ready to Close,NULL
+8214,IL,Purchase,Stewart,ROOFSTOCK,Ready to Close,NULL
+1122,NY,Refinance,First American,BETTER MTG,Ready to Close,NULL
+4529,CA,Refinance,Fidelity,BETTER MTG,Ready to Close,NULL
+1234,TX,Refinance,First American,BETTER MTG,Ready to Close,NULL
+5678,TX,Refinance,Fidelity,BETTER MTG,Ready to Close,NULL
+1963,CA,Refinance,Fidelity,BETTER MTG,Ready to Close,NULL
+9372,IL,Purchase,Stewart,ROOFSTOCK,Ready to Close,NULL
+1439,CA,Purchase,Fidelity,ROOFSTOCK,Ready to Close,NULL
+2465,IL,Purchase,Fidelity,ROOFSTOCK,Ready to Close,NULL
+2095,CA,Purchase,First American,ROOFSTOCK,Ready to Close,NULL
+2857,FL,Purchase,Stewart,ROOFSTOCK,Ready to Close,NULL
+4679,IL,Purchase,Fidelity,ROOFSTOCK,Ready to Close,NULL
+5268,IL,Purchase,Fidelity,ROOFSTOCK,Ready to Close,NULL
+1914,IL,Purchase,First American,ROOFSTOCK,Ready to Close,NULL
+6354,CA,Refinance,Fidelity,BETTER MTG,Ready to Close,NULL
+5635,FL,Refinance,Stewart,BETTER MTG,Ready to Close,NULL
+3095,IL,Refinance,First American,BETTER MTG,Ready to Close,NULL
+9865,CA,Refinance,Fidelity,BETTER MTG,Ready to Close,NULL
+3182,TX,Purchase,Stewart,ROOFSTOCK,Ready to Close,NULL
+4401,NY,Purchase,Fidelity,ROOFSTOCK,Ready to Close,NULL
+4567,NY,Purchase,First American,ROOFSTOCK,Ready to Close,NULL

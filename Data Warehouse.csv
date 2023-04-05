@@ -1,0 +1,102 @@
+﻿Transaction ID,Transaction State,Transaction Type,Underwriter,Client,File Status,Closing Date,Recording Date,Policy Created Date
+9385,NY,Refinance,First American,BETTER MTG,Ready to Record,3/4/2023 15:30,,
+7773,FL,Purchase,Stewart,OPENDOOR,Ready to Record,3/2/2023 9:30,,
+6542,AZ,Purchase,Fidelity,OPENDOOR,Ready to Record,3/4/2023 16:30,,
+9876,NY,Purchase,First American,OPENDOOR,Ready to Record,3/3/2023 11:45,,
+4567,CA,Purchase,Fidelity,OPENDOOR,Ready to Record,3/2/2023 11:15,,
+1234,FL,Purchase,Fidelity,OPENDOOR,Ready to Record,3/2/2023 16:15,,
+4567,FL,Refinance,Stewart,BETTER MTG,Ready to Record,3/3/2023 12:00,,
+6197,FL,Refinance,Fidelity,BETTER MTG,Ready to Record,3/3/2023 14:45,,
+4109,FL,Refinance,Stewart,BETTER MTG,Ready to Record,3/3/2023 11:45,,
+6940,CA,Refinance,Stewart,BETTER MTG,Ready to Record,3/2/2023 16:00,,
+6453,TX,Purchase,Fidelity,OPENDOOR,Ready to Record,3/3/2023 15:00,,
+7349,FL,Purchase,Fidelity,OPENDOOR,Ready to Record,3/3/2023 14:00,,
+5237,IL,Purchase,First American,OPENDOOR,Ready to Record,3/2/2023 14:45,,
+6152,CA,Purchase,Stewart,OPENDOOR,Ready to Record,3/2/2023 15:30,,
+6740,TX,Purchase,Fidelity,OPENDOOR,Ready to Record,3/3/2023 13:30,,
+1628,FL,Purchase,Stewart,OPENDOOR,Ready to Record,3/2/2023 11:00,,
+7821,CA,Purchase,Fidelity,OPENDOOR,Ready to Record,3/2/2023 10:30,,
+4687,TX,Purchase,First American,OPENDOOR,Ready to Record,3/3/2023 11:30,,
+1846,IL,Refinance,First American,BETTER MTG,Ready to Record,3/3/2023 9:00,,
+5106,TX,Refinance,Stewart,BETTER MTG,Ready to Record,3/3/2023 14:30,,
+3385,NY,Refinance,Fidelity,BETTER MTG,Ready to Record,3/2/2023 14:15,,
+5403,NY,Refinance,Stewart,BETTER MTG,Ready to Record,3/2/2023 16:45,,
+8754,IL,Purchase,Stewart,ROOFSTOCK,Ready to Record,3/3/2023 12:30,,
+1427,CA,Purchase,First American,ROOFSTOCK,Ready to Record,3/2/2023 17:15,,
+2345,CA,Purchase,Stewart,ROOFSTOCK,Ready to Record,3/2/2023 14:30,,
+7109,CA,Purchase,Fidelity,ROOFSTOCK,Ready to Close,,,
+8214,IL,Purchase,Stewart,ROOFSTOCK,Ready to Close,,,
+1122,NY,Refinance,First American,BETTER MTG,Ready to Close,,,
+4529,CA,Refinance,Fidelity,BETTER MTG,Ready to Close,,,
+1234,TX,Refinance,First American,BETTER MTG,Ready to Close,,,
+5678,TX,Refinance,Fidelity,BETTER MTG,Ready to Close,,,
+1963,CA,Refinance,Fidelity,BETTER MTG,Ready to Close,,,
+9372,IL,Purchase,Stewart,ROOFSTOCK,Ready to Close,,,
+1439,CA,Purchase,Fidelity,ROOFSTOCK,Ready to Close,,,
+2465,IL,Purchase,Fidelity,ROOFSTOCK,Ready to Close,,,
+2095,CA,Purchase,First American,ROOFSTOCK,Ready to Close,,,
+2857,FL,Purchase,Stewart,ROOFSTOCK,Ready to Close,,,
+4679,IL,Purchase,Fidelity,ROOFSTOCK,Ready to Close,,,
+5268,IL,Purchase,Fidelity,ROOFSTOCK,Ready to Close,,,
+1914,IL,Purchase,First American,ROOFSTOCK,Ready to Close,,,
+6354,CA,Refinance,Fidelity,BETTER MTG,Ready to Close,,,
+5635,FL,Refinance,Stewart,BETTER MTG,Ready to Close,,,
+3095,IL,Refinance,First American,BETTER MTG,Ready to Close,,,
+9865,CA,Refinance,Fidelity,BETTER MTG,Ready to Close,,,
+3182,TX,Purchase,Stewart,ROOFSTOCK,Ready to Close,,,
+4401,NY,Purchase,Fidelity,ROOFSTOCK,Ready to Close,,,
+4567,NY,Purchase,First American,ROOFSTOCK,Ready to Close,,,
+3245,TX,Purchase,First American,ROOFSTOCK,Ready for Policy,3/2/2023 10:30,3/7/2023 14:45,
+4972,AZ,Purchase,Fidelity,ROOFSTOCK,Ready for Policy,3/3/2023 11:15,3/7/2023 10:00,
+2341,TX,Refinance,First American,BETTER MTG,Ready for Policy,3/3/2023 14:15,3/7/2023 15:45,
+2197,IL,Refinance,Stewart,BETTER MTG,Ready for Policy,3/3/2023 10:00,3/6/2023 12:00,
+3856,FL,Refinance,Stewart,BETTER MTG,Ready for Policy,3/2/2023 14:00,3/5/2023 9:45,
+7890,AZ,Refinance,Fidelity,BETTER MTG,Ready for Policy,3/2/2023 16:15,3/5/2023 11:00,
+8912,NY,Purchase,Stewart,OPENDOOR,Ready for Policy,3/2/2023 9:00,3/6/2023 11:30,
+8765,CA,Purchase,Stewart,OPENDOOR,Ready for Policy,3/3/2023 13:30,3/7/2023 10:00,
+3698,NY,Purchase,First American,OPENDOOR,Ready for Policy,3/3/2023 10:30,3/6/2023 9:45,
+8210,IL,Purchase,First American,OPENDOOR,Ready for Policy,3/2/2023 11:00,3/6/2023 15:15,
+2846,CA,Purchase,First American,OPENDOOR,Ready for Policy,3/2/2023 10:15,3/5/2023 14:30,
+8653,TX,Refinance,Stewart,BETTER MTG,Ready for Policy,3/4/2023 15:30,3/6/2023 11:15,
+7381,IL,Refinance,First American,BETTER MTG,Ready for Policy,3/2/2023 14:15,3/5/2023 9:30,
+9735,TX,Refinance,First American,BETTER MTG,Ready for Policy,3/4/2023 11:30,3/7/2023 9:45,
+8179,FL,Refinance,First American,BETTER MTG,Ready for Policy,3/4/2023 12:45,3/7/2023 15:00,
+9626,IL,Refinance,Stewart,BETTER MTG,Ready for Policy,3/4/2023 13:45,3/6/2023 14:30,
+8275,TX,Refinance,Stewart,BETTER MTG,Ready for Policy,3/4/2023 16:15,3/7/2023 11:00,
+9421,CA,Purchase,Fidelity,OPENDOOR,Ready for Policy,3/4/2023 9:30,3/6/2023 15:00,
+1037,TX,Purchase,First American,OPENDOOR,Ready for Policy,3/4/2023 15:15,3/7/2023 10:45,
+3805,NY,Purchase,Stewart,OPENDOOR,Ready for Policy,3/2/2023 12:15,3/6/2023 12:00,
+7292,NY,Refinance,First American,BETTER MTG,Ready for Policy,3/4/2023 9:45,3/7/2023 12:00,
+6479,FL,Refinance,Stewart,BETTER MTG,Ready for Policy,3/4/2023 14:00,3/7/2023 10:00,
+7461,FL,Refinance,Stewart,BETTER MTG,Ready for Policy,3/4/2023 16:15,3/7/2023 10:45,
+9065,CA,Purchase,Fidelity,ROOFSTOCK,Ready for Policy,3/2/2023 13:30,3/5/2023 14:00,
+4274,TX,Purchase,First American,ROOFSTOCK,Ready for Policy,3/3/2023 16:30,3/6/2023 15:00,
+6627,CA,Purchase,Stewart,ROOFSTOCK,Ready for Policy,3/2/2023 11:15,3/5/2023 10:30,
+2019,TX,Refinance,First American,BETTER MTG,Ready for Policy,3/3/2023 10:00,3/6/2023 13:15,
+4513,FL,Refinance,First American,BETTER MTG,Ready for Policy,3/4/2023 11:30,3/7/2023 14:45,
+5993,TX,Refinance,Stewart,BETTER MTG,Ready for Policy,3/3/2023 9:30,3/6/2023 10:00,
+8965,IL,Refinance,Fidelity,BETTER MTG,Ready for Policy,3/3/2023 13:30,3/6/2023 15:15,
+6783,TX,Purchase,Fidelity,ROOFSTOCK,Ready for Policy,3/3/2023 14:45,3/6/2023 12:15,
+5581,FL,Purchase,Stewart,ROOFSTOCK,Policy Issued,3/3/2023 9:00,3/5/2023 16:15,3/9/2023 14:00
+9645,CA,Purchase,Fidelity,ROOFSTOCK,Policy Issued,3/4/2023 10:45,3/6/2023 16:00,3/8/2023 9:00
+8764,TX,Purchase,First American,ROOFSTOCK,Policy Issued,3/2/2023 15:45,3/7/2023 11:00,3/10/2023 10:15
+5678,IL,Purchase,Stewart,ROOFSTOCK,Policy Issued,3/3/2023 13:30,3/6/2023 16:45,3/8/2023 15:15
+4321,IL,Refinance,First American,BETTER MTG,Policy Issued,3/4/2023 11:00,3/6/2023 13:15,3/8/2023 15:45
+7542,TX,Refinance,Stewart,BETTER MTG,Policy Issued,3/2/2023 14:00,3/5/2023 12:15,3/8/2023 15:30
+5432,NY,Refinance,Fidelity,BETTER MTG,Policy Issued,3/2/2023 15:30,3/6/2023 14:00,3/8/2023 10:45
+5271,NY,Refinance,First American,BETTER MTG,Policy Issued,3/2/2023 13:00,3/7/2023 10:45,3/8/2023 11:30
+1852,NY,Refinance,Fidelity,BETTER MTG,Policy Issued,3/2/2023 16:30,3/5/2023 11:15,3/8/2023 12:00
+3102,NY,Purchase,Stewart,ROOFSTOCK,Policy Issued,3/2/2023 8:30,3/6/2023 10:45,3/8/2023 13:30
+4563,NY,Purchase,First American,ROOFSTOCK,Policy Issued,3/2/2023 9:15,3/5/2023 13:30,3/8/2023 10:15
+7996,NY,Purchase,Fidelity,ROOFSTOCK,Policy Issued,3/2/2023 13:00,3/5/2023 16:15,3/9/2023 9:45
+8364,FL,Purchase,First American,ROOFSTOCK,Policy Issued,3/4/2023 11:30,3/7/2023 16:45,3/10/2023 10:30
+9275,CA,Purchase,First American,ROOFSTOCK,Policy Issued,3/2/2023 16:00,3/5/2023 11:30,3/9/2023 13:00
+4526,TX,Purchase,Stewart,ROOFSTOCK,Policy Issued,3/3/2023 15:00,3/6/2023 13:30,3/9/2023 12:15
+2953,NY,Purchase,Fidelity,ROOFSTOCK,Policy Issued,3/2/2023 12:45,3/5/2023 15:45,3/9/2023 8:15
+2875,NY,Purchase,First American,ROOFSTOCK,Policy Issued,3/2/2023 8:45,3/5/2023 16:30,3/10/2023 9:00
+1746,IL,Refinance,First American,BETTER MTG,Policy Issued,3/3/2023 11:45,3/6/2023 10:30,3/10/2023 10:45
+9584,FL,Refinance,Fidelity,BETTER MTG,Policy Issued,3/4/2023 10:45,3/7/2023 15:30,3/8/2023 14:15
+2275,NY,Refinance,Fidelity,BETTER MTG,Policy Issued,3/2/2023 9:45,3/5/2023 11:15,3/8/2023 10:30
+7685,FL,Refinance,First American,BETTER MTG,Policy Issued,3/4/2023 14:15,3/7/2023 16:30,3/9/2023 12:00
+2723,FL,Purchase,Stewart,OPENDOOR,Policy Issued,3/4/2023 9:00,3/7/2023 12:30,3/8/2023 14:45
+9892,IL,Purchase,First American,OPENDOOR,Policy Issued,3/3/2023 10:45,3/6/2023 14:30,3/9/2023 9:45
